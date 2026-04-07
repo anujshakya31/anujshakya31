@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi 👋, I'm Anuj Shakya
 
-<!--
-**anujshakya31/anujshakya31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 🎓 Computer Science Student
+- 🌱 Currently learning Data Analytics & Machine Learning
+- 💻 Interested in AI & Prompt Engineering
+- 📫 Email: anujshakya645@gmail.com
 
-Here are some ideas to get you started:
+## 🔗 Connect with me
+[LinkedIn](https://www.linkedin.com/in/anujshakya31)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- Python 🐍
+- HTML, CSS, JS
+- SQL
+- Excel
+- Power BI
+
+---
+
+⭐ From [Anuj](https://github.com/)
